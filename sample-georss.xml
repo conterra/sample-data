@@ -1,0 +1,80 @@
+<rss xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>sample earthquakes</title>
+    <description>examples of seismic events based on events recorded by BGS Seismology team (see http://earthquakes.bgs.ac.uk/)</description>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 14 Oct 2021 12:16:00</lastBuildDate>
+    <item>
+      <title>World Earthquake alert : M 6.4 :CRETE,GREECE, Tue, 12 Oct 2021 09:24:03</title>
+      <description>Origin date/time: Tue, 12 Oct 2021 09:24:03 ; Location: CRETE,GREECE ; Lat/long: 35.193,26.256 ; Depth: 10 km ; Magnitude: 6.4</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20211012092934.html</link>
+      <pubDate>Tue, 12 Oct 2021 09:24:03</pubDate>
+      <category>EQMH</category>
+      <geo:lat>35.193</geo:lat>
+      <geo:long>26.256</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.9 :ALASKA PENINSULA, Mon, 11 Oct 2021 09:10:24</title>
+      <description>Origin date/time: Mon, 11 Oct 2021 09:10:24 ; Location: ALASKA PENINSULA ; Lat/long: 56.258,-156.553 ; Depth: 33 km ; Magnitude: 6.9</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20211011092040.html</link>
+      <pubDate>Mon, 11 Oct 2021 09:10:24</pubDate>
+      <category>EQMH</category>
+      <geo:lat>56.258</geo:lat>
+      <geo:long>-156.553</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.9 :FIJI ISLANDS REGION, Sat, 09 Oct 2021 10:58:31</title>
+      <description>Origin date/time: Sat, 09 Oct 2021 10:58:31 ; Location: FIJI ISLANDS REGION ; Lat/long: -21.172,174.529 ; Depth: 520 km ; Magnitude: 6.9</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20211009111649.html</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:31</pubDate>
+      <category>EQMH</category>
+      <geo:lat>-21.172</geo:lat>
+      <geo:long>174.529</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 5.9 :PAKISTAN, Wed, 06 Oct 2021 22:01:08</title>
+      <description>Origin date/time: Wed, 06 Oct 2021 22:01:08 ; Location: PAKISTAN ; Lat/long: 30.220,68.015 ; Depth: 9 km ; Magnitude: 5.9</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20211006220903.html</link>
+      <pubDate>Wed, 06 Oct 2021 22:01:08</pubDate>
+      <category>EQMH</category>
+      <geo:lat>30.220</geo:lat>
+      <geo:long>68.015</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.5 :TONGA ISLANDS REGION, Sat, 24 Apr 2021 00:23:38</title>
+      <description>Origin date/time: Sat, 24 Apr 2021 00:23:38 ; Location: TONGA ISLANDS REGION ; Lat/long: -18.904,-176.270 ; Depth: 301 km ; Magnitude: 6.5</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210424004055.html</link>
+      <pubDate>Sat, 24 Apr 2021 00:23:38</pubDate>
+      <category>EQMH</category>
+      <geo:lat>-18.904</geo:lat>
+      <geo:long>-176.270</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.0 :JAVA,INDONESIA, Sat, 10 Apr 2021 07:00:14</title>
+      <description>Origin date/time: Sat, 10 Apr 2021 07:00:14 ; Location: JAVA,INDONESIA ; Lat/long: -8.553,112.515 ; Depth: 67 km ; Magnitude: 6.0</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210410071000.html</link>
+      <pubDate>Sat, 10 Apr 2021 07:00:14</pubDate>
+      <category>EQMH</category>
+      <geo:lat>-8.553</geo:lat>
+      <geo:long>112.515</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.6 :SOUTH SANDWICH ISLANDS, Sat, 03 Apr 2021 01:16:39</title>
+      <description>Origin date/time: Sat, 03 Apr 2021 01:16:39 ; Location: SOUTH SANDWICH ISLANDS ; Lat/long: -58.014,-7.843 ; Depth: 10 km ; Magnitude: 6.6</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210403012000.html</link>
+      <pubDate>Sat, 03 Apr 2021 01:16:39</pubDate>
+      <category>EQMH</category>
+      <geo:lat>-58.014</geo:lat>
+      <geo:long>-7.843</geo:long>
+    </item>
+    <item>
+      <title>World Earthquake alert : M 6.5 :KERMADEC ISLANDS, Thu, 01 Apr 2021 09:56:38</title>
+      <description>Origin date/time: Thu, 01 Apr 2021 09:56:38 ; Location: KERMADEC ISLANDS ; Lat/long: -29.961,-177.676 ; Depth: 20 km ; Magnitude: 6.5</description>
+      <link>http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20210401101348.html</link>
+      <pubDate>Thu, 01 Apr 2021 09:56:38</pubDate>
+      <category>EQMH</category>
+      <geo:lat>-29.961</geo:lat>
+      <geo:long>-177.676</geo:long>
+    </item>
+  </channel>
+</rss>
